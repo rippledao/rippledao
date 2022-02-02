@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ugochukwu a.k.a @rippledao
-- 👀 I’m interested in Software Engineering, DeFi, Web3, Crypto, and Space-time Mathematics
+- 👀 I’m interested in Economics, DeFi, Web3, Crypto, and Music
 - 🌱 I’m currently learning Design patterns in DeFi and Smart Contracts.
 - 💞️ I’m looking to collaborate on Community tools and Web3 open-source projects.
 - 📫 How to reach me henry.ugochukwu@storyteq.com
